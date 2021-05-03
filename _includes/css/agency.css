@@ -179,6 +179,7 @@ fieldset[disabled] .btn-xl.active {
     font-family: {{ site.data.template.font.primary }};
     color: #{{ site.data.template.color.primary }};
     font-weight: 700;
+    text-transform: uppercase;
 }
 
 .navbar-default .navbar-brand:hover,
