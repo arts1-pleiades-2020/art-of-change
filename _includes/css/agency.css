@@ -733,9 +733,7 @@ footer span.copyright {
     font-family: {{ site.data.template.font.primary }};
     line-height: 40px;
     text-align: center;
-    display:table;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
 }
 
 .btn:focus,
