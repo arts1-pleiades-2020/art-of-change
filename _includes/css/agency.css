@@ -732,6 +732,7 @@ footer span.copyright {
     text-transform: none;
     font-family: {{ site.data.template.font.primary }};
     line-height: 40px;
+    text-align: center;
 }
 
 footer ul.quicklinks {
