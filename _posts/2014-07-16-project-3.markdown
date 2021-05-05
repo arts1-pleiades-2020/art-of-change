@@ -5,7 +5,7 @@ layout: default
 modal-id: 3
 date: 2014-07-16
 img: SHM.jpg
-thumbnail: SHM.jpg
+thumbnail: SHM-thumb.jpg
 alt: image-alt
 project-date: April 2014
 client: Anina Rubio
