@@ -1,6 +1,6 @@
 ---
 title: Bumblecat 2
-subtitle: Art Print
+subtitle: Titsay
 layout: default
 modal-id: 1
 date: 2014-07-18
@@ -9,7 +9,7 @@ thumbnail: titsay.jpg
 alt: image-alt
 project-date: April 2014
 client: Titsay
-category: Art Comissions (Creative Services)
-description: A gallery-quality giclée art print on 100% cotton rag archival paper, printed with archival inks by Titsay.
+category: Art Comissions & Prints (Creative Services)
+description: A gallery-quality giclée art print on 100% cotton rag archival paper, printed with archival inks by Titsay. Her works can be categorized under creative services.
 
 ---
