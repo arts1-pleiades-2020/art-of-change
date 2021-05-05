@@ -9,7 +9,7 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Sarah Mallillin
   pic: 1
   position: Lead Designer
   social:
@@ -20,7 +20,7 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Laurence Anthony Sy
   pic: 2
   position: Lead Marketer
   social:
@@ -31,9 +31,53 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Christian San Juan
   pic: 3
   position: Lead Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+      
+- name: Vanessa Tesing
+  pic: 4
+  position: Layout Artist
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Neal Samuel Lerios
+  pic: 5
+  position: Lead Writer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+      
+- name: Rico Lorenzo Jaucian
+  pic: 6
+  position: Assistant Designer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Gian Paul Macatangay
+  pic: 7
+  position: Assistant Writer
   social:
     - title: twitter
       url: #
