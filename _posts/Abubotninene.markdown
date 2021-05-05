@@ -2,7 +2,7 @@
 title: Chunky Clay Rings
 subtitle: Abubot ni Nene
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2014-07-18
 img: abubot.jpg
 thumbnail: abubot.jpg
