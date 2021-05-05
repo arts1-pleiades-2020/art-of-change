@@ -653,16 +653,17 @@ section h3.section-subtitle {
 }
 
 .team-member {
+    display: block;
     margin-bottom: 50px;
-    margin-right: auto;
-    margin-left: auto;
     width: 50%;
     text-align: center;
 }
 
 .team-member img {
+    display: block;
     margin: 0 auto;
     border: 7px solid #fff;
+    width: 50%;
 }
 
 .team-member h4 {
