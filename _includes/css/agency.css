@@ -28,6 +28,10 @@ p.paragraph {
     text-align: justify;
 }
 
+p.subtitle {
+    font-size: 18px;
+}
+
 p.large {
     font-size: 16px;
 }
