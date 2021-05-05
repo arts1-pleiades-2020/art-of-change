@@ -1,5 +1,5 @@
 ---
-title: Designs in Sakaling Hindi Makita
+title: Sakaling Hindi Makarating
 subtitle: Anina Rubio
 layout: default
 modal-id: 3
