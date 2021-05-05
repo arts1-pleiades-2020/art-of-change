@@ -653,14 +653,12 @@ section h3.section-subtitle {
 }
 
 .team-member {
-    display: block;
     margin-bottom: 50px;
     width: 50%;
     text-align: center;
 }
 
 .team-member img {
-    display: block;
     margin: 0 auto;
     border: 7px solid #fff;
     width: 50%;
