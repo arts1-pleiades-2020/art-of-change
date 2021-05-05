@@ -654,14 +654,12 @@ section h3.section-subtitle {
 
 .team-member {
     margin-bottom: 50px;
-    width: 50%;
     text-align: center;
 }
 
 .team-member img {
     margin: 0 auto;
     border: 7px solid #fff;
-    width: 50%;
 }
 
 .team-member h4 {
