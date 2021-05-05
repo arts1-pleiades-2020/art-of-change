@@ -350,6 +350,15 @@ section h3.section-subheading {
     text-align: justify;
 }
 
+section h3.section-subtitle {
+    margin-bottom: 20px;
+    text-transform: none;
+    font-family: {{ site.data.template.font.primary }};
+    font-size: 17px;
+    font-weight: 400;
+    text-align: center;
+}
+
 @media(min-width:768px) {
     section {
         padding: 150px 0;
