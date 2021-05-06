@@ -15,7 +15,7 @@ body {
 }
 
 .text-ref {
-       font-family: {{ site.data.template.font.secondary }};
+       font-family: {{ site.data.template.font.primary }};
 }
 
 .text-primary {
