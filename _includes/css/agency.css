@@ -14,6 +14,10 @@ body {
     color: #{{ site.data.template.color.muted }};
 }
 
+.text-ref {
+       font-family: {{ site.data.template.font.secondary }};
+}
+
 .text-primary {
     color: #{{ site.data.template.color.primary }};
 }
