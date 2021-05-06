@@ -14,7 +14,7 @@ body {
     color: #{{ site.data.template.color.muted }};
 }
 
-.text-ref {
+p.text-ref {
        font-family: {{ site.data.template.font.primary }};
 }
 
