@@ -16,6 +16,7 @@ body {
 
 p.text-ref {
        font-family: {{ site.data.template.font.primary }};
+       text-align: left;
 }
 
 .text-primary {
